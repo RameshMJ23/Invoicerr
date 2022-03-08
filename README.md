@@ -11,7 +11,7 @@ Invoice app🧾
 
 - Can add additional notes, delivery address, details about client if needed
 
-Video of the app:  
+Video of the app: https://youtu.be/-VhNE--ASUg
 
 Screenshots of app: 
 
