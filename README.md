@@ -11,6 +11,8 @@ Invoice app🧾
 
 - Can add additional notes, delivery address, details about client if needed
 
+Play store link: https://play.google.com/store/apps/details?id=com.appsaloon.invoicerr
+
 Video of the app: https://youtu.be/-VhNE--ASUg
 
 Screenshots of app: 
